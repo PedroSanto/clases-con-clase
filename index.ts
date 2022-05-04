@@ -61,7 +61,7 @@ function testClaseBanda() {
 
 function main() {
   testClaseBanda();
-  console.log("otro cambio");
+  console.log("vino otra persona y le metio este cambio");
 }
 
 main();
